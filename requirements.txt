@@ -50,7 +50,7 @@ locket==0.2.1
 magicgui==0.2.9
 MarkupSafe==1.1.1
 matplotlib==3.4.1
-mistune==0.8.4
+mistune==2.0.3
 napari==0.4.7
 napari-console==0.0.3
 napari-plugin-engine==0.1.9
